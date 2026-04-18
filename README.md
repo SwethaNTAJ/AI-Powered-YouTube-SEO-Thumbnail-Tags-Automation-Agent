@@ -1,4 +1,9 @@
 🚀 AI-Powered YouTube SEO & Thumbnail Optimization Agent
+🧠 Project Type
+
+🚀 AI Agent + GenAI + Automation System
+🎯 NLP + Speech Processing + API Integration
+
 🧠 Project Overview
 
 This project is an AI Agent-based YouTube Automation System that analyzes YouTube videos and automatically improves their SEO performance by generating optimized:
